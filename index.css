@@ -1,0 +1,7 @@
+.bg-img{
+    background-image : url('https://www.cloudways.com/blog/wp-content/uploads/ecommerce-website-checklist-b-.jpg');
+    background-position: center;
+    height: 100vh; 
+    position: relative;
+    z-index: 1;
+}
